@@ -2,7 +2,7 @@
 		controllerName="gittestproject.view1" xmlns:html="http://www.w3.org/1999/xhtml">
 	<Page title="Git account created">
 		<content>
-	
+			<Text text="git push"></Text>
 		</content>
 	</Page>
 </core:View>
